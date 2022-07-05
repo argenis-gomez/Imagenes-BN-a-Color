@@ -8,3 +8,6 @@ A través de una arquitectura Pix2Pix agregaremos color a imágenes en blanco y 
 
 ![Proyecto 1](Images/Proyecto1_2.png)
 ![Proyecto 1](Images/Proyecto1_3.png)
+
+El entrenamiento se llevó a cabo durante 100 épocas, obteniendo resultados bastante satisfactorios pero con un amplio márgen de mejora.
+Se recomienda utilizar más imágenes y tener un entrenamiento durante más épocas.
