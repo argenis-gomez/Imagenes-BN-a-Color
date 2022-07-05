@@ -6,5 +6,5 @@ A través de una arquitectura Pix2Pix agregaremos color a imágenes en blanco y 
 * Se utilizaron 6000 imágenes con resolución de 256x256.
 * El modelo fue entrenado por 100 épocas, obteniendo resultados bastante satisfactorios.
 
-![Proyecto 1](images/Proyecto1_2.png)
-![Proyecto 1](images/Proyecto1_3.png)
+![Proyecto 1](Images/Proyecto1_2.png)
+![Proyecto 1](Images/Proyecto1_3.png)
